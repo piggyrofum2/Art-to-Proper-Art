@@ -1,6 +1,12 @@
 # Stable Diffusion
 *Stable Diffusion was made possible thanks to a collaboration with [Stability AI](https://stability.ai/) and [Runway](https://runwayml.com/) and builds upon our previous work:*
 
+## Run Drawing App
+Make sure to have tkinter, PIL, and numpy installed. Then run: 
+```python
+python3 scripts/draw.py
+```
+
 [**High-Resolution Image Synthesis with Latent Diffusion Models**](https://ommer-lab.com/research/latent-diffusion-models/)<br/>
 [Robin Rombach](https://github.com/rromb)\*,
 [Andreas Blattmann](https://github.com/ablattmann)\*,
